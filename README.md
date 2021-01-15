@@ -3,12 +3,12 @@
 <p>
 
 <p align="center"> 
-  <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/rafaelfachinelli/readme?color=3498db&style=for-the-badge">
-  <img alt="Último Commit no Repositório" src="https://img.shields.io/github/last-commit/rafaelfachinelli/readme?color=3498db&style=for-the-badge">
+  <img alt="Tamanho do Repositório" src="https://img.shields.io/github/repo-size/thaislsilveira/hackathon-ccr?color=3498db&style=for-the-badge">
+  <img alt="Último Commit no Repositório" src="https://img.shields.io/github/last-commit/thaislsilveira/hackathon-ccr?color=3498db&style=for-the-badge">
   <a href="https://github.com/USUÁRIO">
-    <img alt="Desenvolvido por NOME" src="https://img.shields.io/badge/Desenvolvedor-NOME_SOBRENOME-%3498db?color=3498db&style=for-the-badge">
+    <img alt="Desenvolvido por Equipe #113" src="https://img.shields.io/badge/Equipe-#113-%3498db?color=3498db&style=for-the-badge">
   </a>
-  <img alt="Licença do Projeto" src="https://img.shields.io/github/license/rafaelfachinelli/readme?color=3498db&style=for-the-badge"/>
+  <img alt="Licença do Projeto" src="https://img.shields.io/github/license/thaislsilveira/hackathon-ccr?color=3498db&style=for-the-badge"/>
 <p>
 
 <p align="center">
@@ -18,7 +18,6 @@
  <a href="#arrow_forward-executar">Executar</a> •
  <a href="#hammer_and_wrench-tecnologias">Tecnologias</a> •
  <a href="#muscle-contribuidores">Contribuidores</a> •
- <a href="#boy-autor">Autor</a> •
  <a href="#balance_scale-licença">Licença</a>
 </p>
 
