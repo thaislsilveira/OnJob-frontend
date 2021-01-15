@@ -1,10 +1,3 @@
-<div align="right">
-  
-  [![English](https://www.countryflags.io/us/flat/32.png)](./README.md)
-  [![Portuguese](https://www.countryflags.io/br/flat/32.png)](./README-PT.md)
-  
-</div>
-
 <p align="center">
   <img alt="NOME DO PROJETO" src=".github/banner-pt.svg" width="250px"/>
 <p>
@@ -113,9 +106,9 @@ As seguintes ferramentas foram utilizadas para desenvolver esse projeto:
 
 <div align="center">
 
-|:globe_with_meridians: Web|:iphone: Mobile|:file_cabinet: Servidor|
+|:globe_with_meridians: Web|:file_cabinet: Servidor|
 |:---:|:---:|:---:|
-|[Exemplo](https://exemplo.com)|[Exemplo](https://exemplo.com)|[Exemplo](https://exemplo.com)|
+|[Exemplo](https://exemplo.com)|[Exemplo](https://exemplo.com)|
 
 </div>
 
@@ -131,17 +124,6 @@ Obrigado a todas essas pessoas maravilhosas:
 
 <table>
   <tr>
-    <td align="center">
-      <a href="https://LINKDOPORTIFOLIO.COM">
-        <img src="https://avatars1.githubusercontent.com/u/9919?s=200&v=4" width="100px;" alt="Imagem de Perfil Nome Sobrenome"/><br />
-        <sub><b>Nome Sobrenome</b></sub>
-      </a>
-      <br/>
-      <a href="https://www.linkedin.com/in/NOMEDOCONTRIBUIDOR" title="LinkedIn"><img src="https://simpleicons.org/icons/linkedin.svg" width="20px"/></a>
-      <a href="https://github.com/USUÁRIODOCONTRIBUIDOR" title="GitHub"><img src="https://simpleicons.org/icons/github.svg" width="20px"/></a>
-      <a href="https://www.facebook.com/NOMEDOCONTRIBUIDOR" title="Facebook"><img src="https://simpleicons.org/icons/facebook.svg" width="20px"/></a>
-      <a href="https://www.youtube.com/NOMEDOCANAL" title="YouTube"><img src="https://simpleicons.org/icons/youtube.svg" width="20px"/></a>
-    </td>
     <td align="center">
       <a href="https://LINKDOPORTIFOLIO.COM">
         <img src="https://avatars1.githubusercontent.com/u/9919?s=200&v=4" width="100px;" alt="Imagem de Perfil Nome Sobrenome"/><br />
