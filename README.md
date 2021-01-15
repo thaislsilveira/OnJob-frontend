@@ -107,7 +107,12 @@ As seguintes ferramentas foram utilizadas para desenvolver esse projeto:
 
 |:globe_with_meridians: Web|:file_cabinet: Servidor|
 |:---:|:---:|
-|[Exemplo](https://exemplo.com)|[Exemplo](https://exemplo.com)|
+|[HTML5](https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5)|[Node](https://nodejs.org/en/)|
+|[CSS3](https://www.w3schools.com/css/)||
+|[TypeScript](https://www.typescriptlang.org)||
+|[React](https://reactjs.org)||
+|[Prettier](https://prettier.io)||
+|[EditorConfig](https://editorconfig.org)||
 
 </div>
 
