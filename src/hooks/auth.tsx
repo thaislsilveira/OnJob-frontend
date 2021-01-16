@@ -47,19 +47,19 @@ const AuthUser: React.FC = ({ children }) => {
   }, []);
 
   const signIn = useCallback(async ({ email, password }) => {
-    const response = await api.post('sessions', {
-      email,
+    const response = await api.post('/auth/local', {
+      identifier: email,
       password,
     });
 
-    const { token, user } = response.data;
+    const { jwt, user } = response.data;
 
-    localStorage.setItem('@OnJob:token', token);
+    localStorage.setItem('@OnJob:token', jwt);
     localStorage.setItem('@OnJob:user', JSON.stringify(user));
 
-    api.defaults.headers.authorization = `Bearer ${token}`;
+    api.defaults.headers.authorization = `Bearer ${jwt}`;
 
-    setData({ token, user });
+    setData({ token: jwt, user });
   }, []);
 
   return (
