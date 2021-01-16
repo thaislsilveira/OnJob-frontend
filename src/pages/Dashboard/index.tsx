@@ -1,9 +1,9 @@
+import React from 'react';
+
 import { Container } from './styles';
 
-export default function Landing() {
-  return (
-    <Container>
+const Landing: React.FC = () => {
+  return <Container>LANDING</Container>;
+};
 
-    </Container>
-  );
-}
+export default Landing;
