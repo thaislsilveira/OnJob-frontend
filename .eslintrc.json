@@ -26,6 +26,7 @@
     ],
     "rules": {
       "prettier/prettier": "error",
+      "jsx-a11y/alt-text": "off",
       "no-use-before-define": "off",
       "react-hooks/rules-of-hooks": "error",
       "react-hooks/exhaustive-deps": "warn",

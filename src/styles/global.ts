@@ -2,12 +2,18 @@ import { createGlobalStyle } from 'styled-components';
 
 export default createGlobalStyle`
   :root {
-    --color-primary-dark: #fff;
-    --color-primary: #fff;
-    --color-primary-light: #fff;
-    --color-secondary-dark: #fff;
-    --color-secondary: #fff;
-    --color-secondary-light: #fff;
+    --color-primary: #192A56;
+
+    --color-secondary: #4B61C3;
+    --color-secondary-light: #798BDE;
+
+    --color-text-darker: #787878;
+    --color-text-dark: #B1B1B1;
+    --color-text-light: #fff;
+
+    --color-background-informations: #E5E5E5;
+
+    --color-green: #18CA49;
   }
 
   * {
@@ -21,43 +27,7 @@ export default createGlobalStyle`
     -webkit-font-smoothing: antialiased;
   }
 
-  body, input, button {
-    font-family: 'Open Sans', sans-serif;
-  }
-
   ::selection {
     background: var(--color-selection);
-  }
-
-  /*Phone*/
-  @media (min-width: 320px)
-    and (max-width: 480px) {
-    :root {
-      font-size: 43.75%;
-    }
-  }
-
-  /*Tablet*/
-  @media (min-width: 481px)
-    and (max-width: 1100px) {
-    :root {
-      font-size: 50%;
-    }
-  }
-
-  /*Desktop*/
-  @media (min-width: 1101px)
-    and (max-width: 1600px) {
-    :root {
-      font-size: 62.5%;
-    }
-  }
-
-  /*Ultra*/
-  @media (min-width: 1101px)
-    and (max-width: 1600px) {
-    :root {
-      font-size: 62.5%;
-    }
   }
 `;
